@@ -1,1 +1,1 @@
-<h1 align="left">Github Profile Finder</h1>
+<h2 align="left">Github Profile Finder</h2>
